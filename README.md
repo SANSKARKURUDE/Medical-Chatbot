@@ -27,3 +27,6 @@ This project is a locally hosted **medical chatbot** that answers a wide range o
 | Vector Store         | FAISS                                          |
 | Retrieval Logic      | LangChain’s `RetrievalQA`                     |
 | Chat Interface       | Streamlit                                     |
+
+## 📸 Screenshot
+

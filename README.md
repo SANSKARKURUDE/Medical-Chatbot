@@ -29,4 +29,4 @@ This project is a locally hosted **medical chatbot** that answers a wide range o
 | Chat Interface       | Streamlit                                     |
 
 ## 📸 Screenshot
-
+![Medical Chatbot](https://github.com/SANSKARKURUDE/Medical-Chatbot/blob/main/Screenshot%202025-07-10%20133259.png)
